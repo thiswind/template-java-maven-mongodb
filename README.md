@@ -5,6 +5,11 @@ This is a [template](https://docs.github.com/en/repositories/creating-and-managi
 This project is based on Gitpod an official [example](https://github.com/gitpod-samples/template-java-maven-mongodb.git).
 
 
+## Screenshot
+
+![](./screenshot.png)
+
+
 ## Run and preview
 
 Click the button below to start a new development environment:
