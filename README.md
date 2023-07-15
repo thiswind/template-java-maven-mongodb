@@ -9,7 +9,7 @@ This project is based on Gitpod an official [example](https://github.com/gitpod-
 
 Click the button below to start a new development environment:
 
-[![](https://camo.githubusercontent.com/76e60919474807718793857d8eb615e7a50b18b04050577e5a35c19421f260a3/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667)](https://gitpod.io#https://github.com/thiswind/template-java-maven-hello)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/thiswind/template-java-maven-hello)
 
 
 ## Features
