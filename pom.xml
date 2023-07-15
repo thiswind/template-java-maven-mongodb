@@ -13,12 +13,12 @@
     </properties>
 
     <dependencies>
-        <dependency>
+        <!-- SQLite -->
+        <!-- <dependency>
             <groupId>org.xerial</groupId>
             <artifactId>sqlite-jdbc</artifactId>
             <version>3.42.0.0</version>
-        </dependency>
-
+        </dependency> -->
     </dependencies>
 
     <build>

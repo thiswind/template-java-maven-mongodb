@@ -6,7 +6,6 @@
         "name": "Debug (Launch)",
         "request": "launch",
         "mainClass": "org.example.Main",
-        // "preLaunchTask": "build"
       }
     ]
   }

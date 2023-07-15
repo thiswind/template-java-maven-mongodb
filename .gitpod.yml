@@ -13,8 +13,8 @@ tasks:
       code --install-extension redhat.java
       code --install-extension vscjava.vscode-java-pack
       code --install-extension DotJoshJohnson.xml
-    init: mvn install -DskipTests=false
+    init: |
+      mvn install -DskipTests=false
     command: |
       mvn compile
-      # mvn exec:java -Dexec.mainClass="org.example.Main"
-      # mvn exec:java
+
