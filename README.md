@@ -2,6 +2,14 @@
 
 This is a [template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) project for developing [Java](https://openjdk.org/projects/jdk/11/) applications using [Maven](https://github.com/apache/maven) in an online development environment with [Gitpod](https://gitpod.io/). It provides a pre-configured setup with Maven and essential Java development plugins, allowing you to quickly start working on your Java projects without worrying about the initial setup.
 
+
+## Run and preview
+
+Click the button below to start a new development environment:
+
+[![](https://camo.githubusercontent.com/76e60919474807718793857d8eb615e7a50b18b04050577e5a35c19421f260a3/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667)](https://gitpod.io#https://github.com/thiswind/template-java-maven-hello)
+
+
 ## Features
 
 - Maven integration for managing dependencies and building the project.
