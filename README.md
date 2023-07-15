@@ -2,6 +2,8 @@
 
 This is a [template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) project for developing [Java](https://openjdk.org/projects/jdk/11/) applications using [Maven](https://github.com/apache/maven) in an online development environment with [Gitpod](https://gitpod.io/). It provides a pre-configured setup with Maven and essential Java development plugins, allowing you to quickly start working on your Java projects without worrying about the initial setup.
 
+This project is based on Gitpod an official [example](https://github.com/gitpod-samples/template-java-maven-mongodb.git).
+
 
 ## Run and preview
 
